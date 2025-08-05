@@ -1,0 +1,33 @@
+# Requirements for Jarvis AI Refactor
+vosk
+pyttsx3
+sounddevice
+PyYAML
+python-dotenv
+
+# Voice and audio dependencies
+speechrecognition
+pyaudio
+pyttsx3
+pypiwin32
+pywin32
+setuptools
+wheel
+comtypes
+engine
+pocketsphinx
+numpy
+six
+pycaw
+soundfile
+requests
+openai
+colorama
+fuzzywuzzy
+python-Levenshtein
+pyautogui
+pygetwindow
+pynput
+pyttsx4
+pyobjc
+pvporcupine

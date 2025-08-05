@@ -1,0 +1,12 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+python-dotenv
+langchain-community
+requests
+duckduckgo-search
+faiss-cpu
+sentence-transformers
+
